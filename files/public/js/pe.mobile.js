@@ -771,8 +771,8 @@ function inituploader()
         },
         'thumbnails': {
             'placeholders': {
-                'waitingPath': 'files/lublic/img/loader.gif',
-                'notAvailablePath': 'files/lublic/img/noimage.gif'
+                'waitingPath': 'files/public/img/loader.gif',
+                'notAvailablePath': 'files/public/img/noimage.gif'
             }
         },
         'validation': {
